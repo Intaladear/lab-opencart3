@@ -91,4 +91,4 @@ http://www.opencart.com/index.php?route=documentation/documentation&path=98
 
 
 That's It!
-OpenCart Dev Team
+OpenCart Development Team
